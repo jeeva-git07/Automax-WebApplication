@@ -1,0 +1,6 @@
+#Files to ignore
+pipfile
+.env
+db.sqlite3
+#Folders to ignore
+media/

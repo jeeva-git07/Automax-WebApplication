@@ -1,0 +1,23 @@
+DISTRICTS_LIST = (
+    ('chennai', 'Chennai'),
+    ('coimbatore', 'Coimbatore'),
+    ('madurai', 'Madurai'),
+    ('tiruchirappalli', 'Tiruchirappalli'),
+    ('salem', 'Salem'),
+    ('tirunelveli', 'Tirunelveli'),
+    ('vellore', 'Vellore'),
+    ('thoothukudi', 'Thoothukudi'),
+    ('kancheepuram', 'Kancheepuram'),
+    ('erode', 'Erode'),
+    ('karur', 'Karur'),
+    ('dharmapuri', 'Dharmapuri'),
+    ('thanjavur', 'Thanjavur'),
+    ('virudhunagar', 'Virudhunagar'),
+    ('nagapattinam', 'Nagapattinam'),
+    ('rameswaram', 'Rameswaram'),
+    ('kanyakumari', 'Kanyakumari'),
+    ('krishnagiri', 'Krishnagiri'),
+    ('tiruvarur', 'Tiruvarur'),
+    ('cuddalore', 'Cuddalore'),
+    ('pudukkottai', 'Pudukkottai')
+)
